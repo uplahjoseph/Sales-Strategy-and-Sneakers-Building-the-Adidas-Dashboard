@@ -53,7 +53,7 @@ The dashboard include the following visuals, all designed with a consistent aest
 ![Dashbboard](https://github.com/uplahjoseph/Sales-Strategy-and-Sneakers-Building-the-Adidas-Dashboard/blob/main/Screenshot%20(3).png)
 ## Tools Used
 - Microsoft Excel: Utilized extensively for Data Cleaning, Analysis, and Dashboard creation.
-- Adobe Color: Employed for selecting a brand-consistent color theme.
+- Adobe Color: Employed for selecting a brand-consistent color theme. 
 ## File Included 
 - ### ![Sales, Strategy, and Sneakers: Building the Adidas Dashboard](https://medium.com/@uplahjoseph/sales-strategy-and-sneakers-building-the-adidas-dashboard-66a64a8496ae)
 ## Insights 
